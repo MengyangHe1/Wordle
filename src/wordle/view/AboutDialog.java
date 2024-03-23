@@ -1,4 +1,4 @@
-package edu.wm.cs.cs301.wordle.view;
+package wordle.view;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

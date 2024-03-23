@@ -1,4 +1,4 @@
-package edu.wm.cs.cs301.wordle;
+package wordle;
 
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
