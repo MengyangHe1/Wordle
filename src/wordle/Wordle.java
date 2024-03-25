@@ -3,8 +3,8 @@ package wordle;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 
-import edu.wm.cs.cs301.wordle.model.WordleModel;
-import edu.wm.cs.cs301.wordle.view.WordleFrame;
+import wordle.model.WordleModel;
+import wordle.view.WordleFrame;
 
 public class Wordle implements Runnable {
 	

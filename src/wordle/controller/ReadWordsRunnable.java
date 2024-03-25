@@ -1,4 +1,4 @@
-package edu.wm.cs.cs301.wordle.controller;
+package wordle.controller;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,7 +10,7 @@ import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import edu.wm.cs.cs301.wordle.model.WordleModel;
+import wordle.model.WordleModel;
 
 public class ReadWordsRunnable implements Runnable {
 

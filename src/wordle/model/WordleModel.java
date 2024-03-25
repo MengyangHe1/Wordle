@@ -1,10 +1,10 @@
-package edu.wm.cs.cs301.wordle.model;
+package wordle.model;
 
 import java.awt.Color;
 import java.util.List;
 import java.util.Random;
 
-import edu.wm.cs.cs301.wordle.controller.ReadWordsRunnable;
+import wordle.controller.ReadWordsRunnable;
 
 public class WordleModel {
 	

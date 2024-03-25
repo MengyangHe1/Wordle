@@ -1,4 +1,4 @@
-package edu.wm.cs.cs301.wordle.model;
+package wordle.model;
 
 import java.awt.Color;
 

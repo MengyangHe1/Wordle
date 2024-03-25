@@ -1,4 +1,4 @@
-package edu.wm.cs.cs301.wordle.view;
+package wordle.view;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -10,8 +10,8 @@ import java.awt.RenderingHints;
 
 import javax.swing.JPanel;
 
-import edu.wm.cs.cs301.wordle.model.AppColors;
-import edu.wm.cs.cs301.wordle.model.WordleModel;
+import wordle.model.AppColors;
+import wordle.model.WordleModel;
 
 public class DistributionPanel extends JPanel {
 	

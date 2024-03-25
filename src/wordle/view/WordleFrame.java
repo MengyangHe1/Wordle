@@ -1,4 +1,4 @@
-package edu.wm.cs.cs301.wordle.view;
+package wordle.view;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -20,7 +20,7 @@ import javax.swing.JMenuItem;
 import javax.swing.JPanel;
 import javax.swing.KeyStroke;
 
-import edu.wm.cs.cs301.wordle.model.WordleModel;
+import wordle.model.WordleModel;
 
 public class WordleFrame {
 	

@@ -1,15 +1,15 @@
-package edu.wm.cs.cs301.wordle.controller;
+package wordle.controller;
 
 import java.awt.event.ActionEvent;
 
 import javax.swing.AbstractAction;
 import javax.swing.JButton;
 
-import edu.wm.cs.cs301.wordle.model.AppColors;
-import edu.wm.cs.cs301.wordle.model.WordleModel;
-import edu.wm.cs.cs301.wordle.model.WordleResponse;
-import edu.wm.cs.cs301.wordle.view.StatisticsDialog;
-import edu.wm.cs.cs301.wordle.view.WordleFrame;
+import wordle.model.AppColors;
+import wordle.model.WordleModel;
+import wordle.model.WordleResponse;
+import wordle.view.StatisticsDialog;
+import wordle.view.WordleFrame;
 
 public class KeyboardButtonAction extends AbstractAction {
 
